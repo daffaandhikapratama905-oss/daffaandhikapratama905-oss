@@ -102,7 +102,7 @@ I'm open to connecting with recruiters, developers, and teams offering IT intern
 - **LinkedIn:** [Daffa Andhika Pratama](https://www.linkedin.com/in/daffa-andhika-pratama-93ab20437/)
 - **Main GitHub:** [daffaandhikapratama905-oss](https://github.com/daffaandhikapratama905-oss)
 - **Second GitHub:** [DaffaAndhikaPratama](https://github.com/DaffaAndhikaPratama)
-- **Portfolio:** [Visit my portfolio website](https://daffaandhikapratama905-oss.github.io/portfolio/)
+- **Portfolio:** [Visit my portfolio website](https://daffaandhikapratama905-oss.github.io/portfolio/) (⚠️ In Progress)
 
 ---
 
